@@ -1,0 +1,4 @@
+Name: S N SATYA ANNAPURNESWARI ANAPARTHI
+Courde: BACHELOR OF COMPUTER APPLICATIONS
+Things learned from GitHub:
+1) I learned how to create a new repository and upload a file
